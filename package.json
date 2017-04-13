@@ -1,0 +1,24 @@
+{
+  "name": "deck.gl-stealjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "steal": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deck.gl": "^4.0.2",
+    "luma.gl": "^3.0.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "steal": "^1.4.1"
+  },
+  "devDependencies": {
+    "steal": "^1.4.1",
+    "steal-tools": "^1.3.0"
+  }
+}
